@@ -2,7 +2,7 @@
 - 👀 I’m interested in me tornar um desenvolvedor full stack
 - 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT
 - 💞️ I’m looking to collaborate on qualquer um que me ajude a crescer e aprender 
-- 📫 How to reach me https://www.linkedin.com/in/anderson-vieira-bb63a3230/
+- 📫 How to reach me https://www.linkedin.com/in/anderson-vieira-bb63a3230/   -   
                      https://twitter.com/Anderson_dev95
 
 <!---
