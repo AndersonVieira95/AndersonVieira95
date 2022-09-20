@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndersonVieira95
 - 👀 I’m interested in me tornar um desenvolvedor full stack
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT
-- 💞️ I’m looking to collaborate on qualquer um que me ajude a crescer e aprender 
-- 📫 How to reach me https://www.linkedin.com/in/anderson-vieira-bb63a3230/   -   
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT/REACT/
+- 💞️ I’m looking to collaborate on anyone who helps me grow and learn
+- 📫 How to reach me https://www.linkedin.com/in/anderson-vieira-dev/-   
                      https://twitter.com/Anderson_dev95
 
 <!---
