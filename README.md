@@ -1,9 +1,10 @@
 ## Olá, Mundo! Eu me chamo Anderson Vieira ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vieira-dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonvieira.dev/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anderson_dev95)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonvieira.dev@gmai.com)
-
+<div style="display: inline_block">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVieira95&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVieira95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ### Tecnologias que estou estudando no momento
 
 <div style="display: inline_block" ><br/>
@@ -22,7 +23,7 @@
 <br>
 <p style="color: #ddd9ce">"O futuro pertence àqueles que acreditam na beleza de seus sonhos."</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVieira95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 AndersonVieira95/AndersonVieira95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
