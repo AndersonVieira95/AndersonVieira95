@@ -1,11 +1,10 @@
 ## Olá, Mundo! Eu me chamo Anderson Vieira ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vieira-dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonvieira.dev/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anderson_dev95)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonvieira.dev@gmai.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vieira-dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonvieira.dev/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anderson_dev95)<a href = "mailto:andersonvieira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p><strong>Estou estudando para me tornar um Desenvolvedor Web FullStack Javascript através do curso da OneBitCode e por meio de tutoriais e documentação encontrada na internet.</strong></p>
+<br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVieira95&show_icons=true&theme=dark)   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVieira95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### Tecnologias que estou estudando no momento
 
@@ -20,9 +19,13 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
-<br>
-<p><strong>Estou estudando para me tornar um Desenvolvedor Web FullStack Javascript através do curso da OneBitCode e por meio de tutoriais e documentação encontrada na internet.</strong></p>
-<br>
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVieira95&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVieira95)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p style="color: #ddd9ce">"O futuro pertence àqueles que acreditam na beleza de seus sonhos."</p>
 
 
