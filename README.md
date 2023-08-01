@@ -11,7 +11,7 @@
 ---
 
 ### Tecnologias que estou estudando no momento
-<img style="display: inline_block"  align="center" alt="avatar" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="350" height="305">
+<img style="display: flex; justify-content: center" alt="avatar" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="350" height="305">
 
 <div style="display: inline_block" ><br/>
      <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
